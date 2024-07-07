@@ -1,0 +1,22 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    awesome_print (1.9.2)
+    rexml (3.3.1)
+      strscan
+    ruby-graphviz (1.2.5)
+      rexml
+    strscan (3.1.0)
+    super_awesome_print (0.2.6)
+      awesome_print
+
+PLATFORMS
+  ruby
+  x86_64-linux
+
+DEPENDENCIES
+  ruby-graphviz (~> 1.2.4)
+  super_awesome_print (~> 0.2.6)
+
+BUNDLED WITH
+   2.5.9

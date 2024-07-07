@@ -9,4 +9,8 @@ class Book
     @author = author
     @published_date = published_date
   end
+
+  def details
+    "#{id} - #{title} - #{author} - #{published_date}"
+  end
 end
