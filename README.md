@@ -10,6 +10,10 @@ bundle install
 ruby main.rb
 ```
 
-### Blockchain Result
 
-![blockchain](https://github.com/RenatoRosaFranco/blockchain-ruby/assets/6882872/b6bb26be-2b9d-42ac-b76e-05faa974b72f)
+<div align='center'>
+
+  ### Blockchain Result
+  
+  ![blockchain](https://github.com/RenatoRosaFranco/blockchain-ruby/assets/6882872/b6bb26be-2b9d-42ac-b76e-05faa974b72f)
+</div>
